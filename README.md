@@ -1,5 +1,5 @@
 # Baseball
-#This is an exploratory analysis based on baseball. This project is on what makes a team the best.
+#This is exploratory analysis on baseball data. This project focuses on what makes a team the best.
 # Written in R Language
 
 load("/Users/rilphumie/Downloads/gls2016.RData")
